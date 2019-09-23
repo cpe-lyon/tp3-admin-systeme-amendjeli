@@ -117,8 +117,8 @@ echo $(which -a $1 | xargs dpkg -S 2> /dev/null)
  split stat stty sum sync tac tail tee test timeout touch tr true truncate
  tsort tty uname unexpand uniq unlink users vdir wc who whoami yes
 ```
-La commande **'['** est equivalent a test
+La commande **'['** est equivalent a test pour recupere sa valeur :
 
-
+>`echo $1`
 
 
