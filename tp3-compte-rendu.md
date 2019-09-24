@@ -121,4 +121,10 @@ La commande **'['** est equivalent a test pour recupere sa valeur :
 
 >`echo $1`
 
+## Exercice 5. aptitude
+
+#### Installez le paquet emacs à l’aide de la version graphique d’aptitude.
+
+* >`sudo apt install aptitude`
+
 
